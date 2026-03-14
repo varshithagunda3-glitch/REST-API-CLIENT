@@ -18,20 +18,28 @@ The program sends an HTTP request to the weather API server and receives weather
 
 *How the Task is Performed
 
-*The program defines the API URL that contains the location details.
-*It creates a connection to the API server using Java networking classes.
-*The application sends an HTTP request to fetch weather data.
-*The server returns the response in JSON format.
-*The program extracts the required data from the JSON response.
-*The information is displayed in a clear and formatted weather report.
+The program defines the API URL that contains the location details.
+
+It creates a connection to the API server using Java networking classes.
+
+The application sends an HTTP request to fetch weather data.
+
+The server returns the response in JSON format.
+
+The program extracts the required data from the JSON response.
+
+The information is displayed in a clear and formatted weather report.
 
 *Tools and Technologies Used
 
-*Java Programming Language
-*Java Networking Classes (URL, URLConnection, BufferedReader, InputStreamReader)
-*JSON Data Format for API response
+Java Programming Language
+
+Java Networking Classes (URL, URLConnection, BufferedReader, InputStreamReader)
+
+JSON Data Format for API response
 
 *Editor / Platform Used
 
 The program is developed and executed using Visual Studio Code (VS Code) with the Java Extension Pack. It can run on Windows, Linux, or macOS as long as Java JDK is installed.
 
+*OUTPUT* : <img width="1183" height="459" alt="Image" src="https://github.com/user-attachments/assets/5452d47e-c101-48dd-8877-dcb0ccdb7adf" />
